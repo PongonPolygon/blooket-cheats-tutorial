@@ -1,7 +1,11 @@
-body{
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:wght@400;700&display=swap');
+html {
+  font-size: 30px;
+}
+body {
   background-color: #000014;
   color: #ffffff;
-  font-family: 'Brush Script MT', cursive;
+  font-family: 'Comic Neue', 'Comic Sans MS', 'Comic Sans', cursive;
   margin: 0; /* remove default page margin so fixed header/footer align flush */
 }
 
